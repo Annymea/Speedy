@@ -1,9 +1,9 @@
 # My first Unity Project - Speedy
 
-## Status of the project: 
+## Status of the project
 finished
 
-## Goal: 
+## Goal
 The goal of this project was to become familiar with the basics of Unity and to create a small project from start to finish.
 
 I wanted to learn how to:
@@ -44,6 +44,6 @@ I intentionally developed this project without using AI.
 
 For private and learning purposes I want to keep the magic of programming.
 
-## My other unity Projects: 
+## My other unity Projects
 - Link to Kill the Dummy
 - Link to Mini Azeroth
