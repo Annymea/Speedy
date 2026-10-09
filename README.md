@@ -20,6 +20,8 @@ When the character reaches the right side, it is destroyed and a new instance is
 
 The project also includes a slider that allows the player to change the character's velocity at runtime. The current velocity is displayed on the screen.
 
+<img width="1238" height="692" alt="image" src="https://github.com/user-attachments/assets/efe72864-e9d9-4a7b-bfe1-eacecc7a0453" />
+
 ## Challenges
 As this was my first Unity project, most of the challenges were related to getting familiar with the Unity editor and its workflow.
 
